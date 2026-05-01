@@ -1,1 +1,28 @@
-/* Add CSS Styling */
+/* style.css */
+
+.odd-number {
+
+    background-color: #ffc0cb;
+    font-family: Verdana,Tahoma,sans-serif;
+
+}
+
+.odd-number.big-font {
+
+font-size: 24px;
+
+}
+
+#second {
+
+color: #0000fff3;
+font-size: 36px;
+
+}
+
+#fourth {
+
+    background-color: rgba(40, 192, 35, 0.842);
+    font-size: 24px;
+    font-weight: bold;
+}
